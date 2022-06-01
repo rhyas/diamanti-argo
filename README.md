@@ -1,0 +1,2 @@
+# diamanti-argo
+ArgoCD Demo
